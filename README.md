@@ -33,12 +33,13 @@ Lista de Tarefas:
 - [ ] Receber o pagamento do projeto!
 
 ***
+Subir uma imagem.
 
 ![Logo do Elden Ring](https://user-images.githubusercontent.com/85118127/159909607-7fbfdf38-ebed-4a25-bd8f-04591de29d15.jpg)
-***
+
 [Acesse o meu GitHub](https://github.com/DevOsvaldo)
 
-
+***
 Num | NOME | NOTA
 ---|---|---
 1 | Osvaldo | 9.9
