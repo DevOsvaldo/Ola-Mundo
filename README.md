@@ -29,7 +29,7 @@ Lista Demarcada:
 Lista de Tarefas:
 
 - [x] Criar a Página principal
-- [ ] Criar Página da Loja
+- [x] Criar Página da Loja
 - [ ] Finalizar a Reunião com o Cliente
 - [ ] Receber o pagamento do projeto!
 
