@@ -11,12 +11,13 @@ Podemos _**misturar**_ configurações. Podemos ~~riscar~~ palavras ~~**também*
 
 Lista numerada:
 1. Teste
-   1.Sub-teste 
-3. Teste 2
+    1. Sub-teste 
+2. Teste 2
      1. Re-teste
      2. Correção 
-5. Teste 3
-6. Teste 4  **
+3. Teste 3
+4. Teste 4  
+     1. Resolução
 *** 
 Lista Demarcada:
 * Teste
